@@ -1,0 +1,7 @@
+Stage 1: Bootloader         ← ✅ You’re here
+Stage 2: Protected Mode Init (next step)
+Stage 3: Kernel Text Output + Input
+Stage 4: Memory + Paging
+Stage 5: Drivers (Keyboard, Disk, etc.)
+Stage 6: Syscalls + Tasking
+Stage 7: User Programs / Shell
